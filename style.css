@@ -18,7 +18,7 @@ body {
 .circul{ background-color:#99FFCC; height:50px; font-family:"Courier New", Courier, monospace}
 
 div.cover {
-    background: url(cover_overlay.png) no-repeat center/100% 100%,url(cover.jpg) no-repeat center/cover;
+    background: url(images/cover_overlay.png) no-repeat center/100% 100%,url(images/cover.jpg) no-repeat center/cover;
     height: 360px;
     position: relative;
 }
@@ -164,7 +164,6 @@ div.barre-verticale {
 
 .col-portfolio {
     width: 47%;
-
 }
 
 div.frame {
